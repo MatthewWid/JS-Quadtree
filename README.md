@@ -2,6 +2,8 @@
 
 Made for my own learning.
 
+## [Live Demo](https://s.codepen.io/MatthewWid/debug/pBxGKj/xnrabNQdvaKA)
+
 All code in `/script/quadTree.js` is fully commented so it can be easily read and understood for convenience.
 
 # What is a Quadtree?
