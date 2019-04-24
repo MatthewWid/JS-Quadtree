@@ -1,10 +1,9 @@
-# A fully reusable QuadTree made with Javascript
+# Fully reusable QuadTree made with JavaScript
 
-Made for my own learning.
+Made for my own learning.  
+All code in `/script/quadTree.js` is fully commented so it can be easily read and understood.
 
-## [Live Demo](https://s.codepen.io/MatthewWid/debug/pBxGKj/xnrabNQdvaKA)
-
-All code in `/script/quadTree.js` is fully commented so it can be easily read and understood for convenience.
+[**Live Demo**](https://codepen.io/MatthewWid/pen/pBxGKj)
 
 # What is a Quadtree?
 
