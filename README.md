@@ -3,7 +3,7 @@
 Made for my own learning.  
 All code in `/script/quadTree.js` is fully commented so it can be easily read and understood.
 
-[**Live Demo**](https://codepen.io/MatthewWid/pen/pBxGKj)
+[**Live Demo**](https://codepen.io/MatthewWid/pen/pBxGKj?editors=0010)
 
 # What is a Quadtree?
 
